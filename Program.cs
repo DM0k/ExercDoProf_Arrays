@@ -24,7 +24,7 @@ namespace ExercDoProf_Arrays
             }
 
             Console.WriteLine("");
-            Console.WriteLine("-=-=-=-=-=-= Lista de Nomes =-=-=-=-=-");
+            Console.WriteLine("-=-=-=-=-=-= Lista de Nomes e Idades =-=-=-=-=-");
             Console.WriteLine("");
 
             int j = 0;
